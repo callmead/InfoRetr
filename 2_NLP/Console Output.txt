@@ -1,0 +1,50 @@
+Loading Google word2vec...
+
+Processing words...
+Actual text: ['Husky', 'sleeping', 'on', 'the', 'grass']
+Relevant text: ['Husky', 'sleeping', 'grass']
+
+Similar words for Husky :
+Huskie, Cougar, website_www.huskyenergy.com, Wildcat, Huskies, Coug, Grizzly, Bulldog, UW, Bearcat, 
+Most significant words for Husky -> ['Huskies', 'Bulldog']
+
+Similar words for sleeping :
+slept, sleep, asleep, sleeping_soundly, Sleeping, snoozing, falling_asleep, sleeps, bed, dozing, 
+Most significant words for sleeping -> ['sleep', 'Sleeping', 'sleeps']
+
+Similar words for grass :
+grasses, Bermuda_grass, bermuda_grass, rye_grass, lawns, fescue, Zoysia_grass, kikuyu, kikuyu_grass, tall_fescue_grass, 
+Most significant words for grass -> ['grasses', 'Bermuda_grass', 'bermuda_grass', 'rye_grass', 'fescue']
+--------------------------------------------------------------------
+
+Actual text: ['Assassin', 'bug', 'on', 'the', 'leaf']
+Relevant text: ['Assassin', 'bug', 'leaf']
+
+Similar words for Assassin :
+Ritualist, Assassins, Brawler, Hitman, Kahagas, Aerial_Assault, Mage, Destroyer, Severed_Head, Maniac, 
+Most significant words for Assassin -> ['Assassins', 'Hitman']
+
+Similar words for bug :
+bugs, worm, Bug, virus, Y2K_millennium, ActiveX_vulnerability, http://bugs.gentoo.org, vuln, insect, Bagle_virus, 
+Most significant words for bug -> ['bugs', 'worm', 'Bug', 'insect']
+
+Similar words for leaf :
+Discard_bay, petioles, foliage, seedheads, leaf_axils, flowerheads, yellowing_leaves, hydrangea_blooms, photinia, bulbils, 
+Most significant words for leaf -> ['petioles', 'foliage']
+--------------------------------------------------------------------
+
+Actual text: ['Black', 'bear', 'fishing']
+Relevant text: ['Black', 'bear', 'fishing']
+
+Similar words for Black :
+White, Hills_Corp_BKH, Hills_BKH, Hills_NYSE_BKH, Pot_Kettle, Red, Tusk_Minerals, Art_pilsner_beers, Blue, Corp_BBOX, 
+Most significant words for Black -> []
+
+Similar words for bear :
+bears, grizzly, bore, bruin, Anna_Kozyreva, moose, grizzly_bear, sow_grizzly, yearling_cubs, griz, 
+Most significant words for bear -> ['bears', 'grizzly', 'bruin', 'grizzly_bear']
+
+Similar words for fishing :
+Fishing, trout_fishing, fisherman, sportfishing, fishermen, fishery, fishers, crabbing, Tony_Garitta, halibut_fishing, 
+Most significant words for fishing -> ['Fishing', 'sportfishing']
+--------------------------------------------------------------------
